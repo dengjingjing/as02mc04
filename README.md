@@ -1,6 +1,6 @@
-alibaba cloud ku3p card
+alibaba cloud ku3p card AS02MC04  Xilinx Kintex UltraScale+ xcku3p-ffvb676-2-e 
+Pcie X8 gen3 ,SFP28 25G,JTAG interface
 
-<img width="624" height="803" alt="image" src="https://github.com/user-attachments/assets/3f8a075e-26b3-4def-84f6-7e311893e21b" />
 <img width="563" height="563" alt="image" src="https://github.com/user-attachments/assets/df161269-7e24-4ae8-91e2-c0d1356604c5" />
 <img width="1287" height="650" alt="image" src="https://github.com/user-attachments/assets/7d4d4d53-8c45-496f-81ae-970cab61818f" />
 
